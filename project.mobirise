@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "St.Paul Church",
+    "name": "St Paul Church",
     "versionFirst": "5.6.11",
     "siteFonts": [
       {
@@ -71,11 +71,11 @@
     },
     "PWA": {
       "enabled": true,
-      "name": "St.Paul Church",
-      "icon": "@PROJECT_PATH@/assets/images/hafsa-logo-2-kopyas-177.svg",
+      "name": "St Paul Church",
+      "icon": "@PROJECT_PATH@/assets/images/hafsa-logo-2-kopyas-180.svg",
       "themeColor": "#cf4a46"
     },
-    "mbrsiteDomain": "czns17q1di",
+    "mbrsiteDomain": "2ptxixlw3m",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -84,7 +84,8 @@
     "pwa-switcher": true,
     "uniqCompNum": 0,
     "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
